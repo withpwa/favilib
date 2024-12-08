@@ -41,7 +41,7 @@
     "generator",
     "node",
     "realfavicongenerator",
-    "astro-favicons-lib"
+    "favilib"
   ],
   "author": "Junlin",
   "contributors": [
