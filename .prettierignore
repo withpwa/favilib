@@ -1,0 +1,4 @@
+/dist
+/test/__snapshots__
+/test/__image_snapshots__
+/coverage

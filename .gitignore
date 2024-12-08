@@ -1,0 +1,9 @@
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
+
+/dist
+/coverage
+/node_modules
+/test/_*
