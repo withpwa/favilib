@@ -40,8 +40,21 @@
     "ico",
     "generator",
     "node",
-    "realfavicongenerator",
-    "favilib"
+    "web-manifest",
+    "manifest-latest",
+    "apple-icons",
+    "apple-startup",
+    "Capo.js",
+    "pwa",
+    "manifest.webmanifest",
+    "browserconfig.xml",
+    "yandex-browser-manifest.json",
+    "android",
+    "android-chrome",
+    "windows",
+    "windows-tile",
+    "yandex",
+    "favicons-lib"
   ],
   "author": "Junlin",
   "contributors": [
