@@ -1,9 +1,9 @@
 {
   "name": "test-cjs",
   "private": true,
-  "description": "Test favicons import as a CommonJS module",
+  "description": "Test favilib import as a CommonJS module",
   "main": "index.js",
   "dependencies": {
-    "favicons": "file:../.."
+    "favilib": "file:../.."
   }
 }
