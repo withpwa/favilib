@@ -1,3 +1,5 @@
+# Favilib
+
 [favicons]: https://github.com/itgalaxy/favicons
 [Create Examples]: ./test/createExamples.mjs
 [Github]: https://github.com/withpwa/favilib/issues
@@ -6,8 +8,6 @@
 [W3C]: https://www.w3.org/TR/appmanifest/#x_localized-members
 [Manifest]: ./src/types/manifest/index.ts
 [LICENSE]: ./LICENSE
-
-# Favilib
 
 [![CI](https://github.com/withpwa/favilib/actions/workflows/ci.yml/badge.svg)](https://github.com/withpwa/favilib/actions/workflows/ci.yml)
 ![NPM Version](https://img.shields.io/npm/v/favilib)
