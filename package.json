@@ -1,6 +1,6 @@
 {
   "name": "favilib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This project is based on and adapts code from the `favicons` library (<https://github.com/itgalaxy/favicons.git>), originally licensed under the MIT License. Significant modifications have been made, including bug fixes, API redesign,extended functionality (e.g., manifest expansion, screenshots support), and other improvements.",
   "type": "module",
   "main": "./dist/index.cjs",
