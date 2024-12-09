@@ -1,4 +1,4 @@
-[favicons]:https://github.com/itgalaxy/favicons
+[favicons]: https://github.com/itgalaxy/favicons
 [Create Examples]: ./test/createExamples.mjs
 [Github]: https://github.com/withpwa/favilib/issues
 [Releases]: https://github.com/ACP-CODE/astro-favicons/releases
@@ -29,8 +29,8 @@ Thanks to the [favicons] open-source project for laying the foundation of this p
 - **Redesigned API:** Built for [astro-favicons], it can also be used separately under node.js module
 - **Advanced [W3C] Manifest Support:** Compatible with extended fields as defined in [Manifest].
 - **New PWA Capabilities:**
-    - Support for `themes`, `screenshots`, and `share_target`.
-    - Enhanced handling of `file_handlers`, `protocol_handlers`, and localized fields (`*_localized`).
+  - Support for `themes`, `screenshots`, and `share_target`.
+  - Enhanced handling of `file_handlers`, `protocol_handlers`, and localized fields (`*_localized`).
 
 ## License
 
