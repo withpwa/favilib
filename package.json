@@ -67,7 +67,7 @@
   "bugs": {
     "url": "https://github.com/withpwa/favilib/issues"
   },
-  "homepage": "https://github.com/withpwa/favilib",
+  "homepage": "https://github.com/withpwa/favilib#readme",
   "engines": {
     "node": ">=14.0.0"
   },
