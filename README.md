@@ -12,25 +12,37 @@
 [![CI](https://github.com/withpwa/favilib/actions/workflows/ci.yml/badge.svg)](https://github.com/withpwa/favilib/actions/workflows/ci.yml)
 ![NPM Version](https://img.shields.io/npm/v/favilib)
 
-An enhanced Node.js module that generates favicons and all necessary assets for Progressive Web Apps (PWAs). Install through NPM with:
+An enhanced Node.js module for generating favicons and assets required for Progressive Web Apps (PWAs). It supports the latest standards from `w3.org`, `Edge`, `Yandex`, and `Windows Tile` (Manifest), providing a unified interface for both CommonJS and ES modules.
+
+## Features
+
+- **Overhauled API:** Built for [astro-favicons], but can also be used independently as a Node.js module.
+- **Advanced Manifest Support:** Full compatibility with the latest [W3C] Manifest standard, including extended fields as outlined in the [Manifest].
+- **Enhanced PWA Capabilities:**
+  - Support for `themes`, `screenshots`, and `share_target`.
+  - Advanced handling of `file_handlers`, `protocol_handlers`, and localized fields (`*_localized`).
+
+## Installation
+
+Install via npm:
 
 ```
 npm i favilib
 ```
 
-Looking for help? Start with our [Create Examples] guide.
+## Usage
+
+Looking for help getting started? Check out the [Create Examples] guide for step-by-step instructions.
 
 ## Acknowledgements
 
-Thanks to the [favicons] open-source project for laying the foundation of this package.
+This project is based on the [favicons] open-source library, originally licensed under the MIT License. Significant modifications have been made, including:
 
-## Changes and New Features
+- Bug fixes
+- API redesign
+- New features (e.g., manifest expansion, screenshots support and themes)
 
-- **Redesigned API:** Built for [astro-favicons], it can also be used separately under node.js module
-- **Advanced [W3C] Manifest Support:** Compatible with extended fields as defined in [Manifest].
-- **New PWA Capabilities:**
-  - Support for `themes`, `screenshots`, and `share_target`.
-  - Enhanced handling of `file_handlers`, `protocol_handlers`, and localized fields (`*_localized`).
+Thanks to the original maintainers for their work!
 
 ## License
 
