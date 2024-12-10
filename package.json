@@ -1,6 +1,6 @@
 {
   "name": "favilib",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An enhanced Node.js module for generating favicons and assets required for Progressive Web Apps (PWAs). It supports the latest standards from `w3.org`, `Edge`, `Yandex`, and Windows Tile (Manifest), providing a unified interface for both CommonJS and ES modules.",
   "type": "module",
   "main": "./dist/index.cjs",
