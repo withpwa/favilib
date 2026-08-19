@@ -16,6 +16,7 @@ jobs:
           - ubuntu-latest
           - macOS-latest
           - windows-latest
+          - windows-11-arm
         node-version:
           - 18
           - 20
